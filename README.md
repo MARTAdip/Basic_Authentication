@@ -6,7 +6,7 @@ Basic authentication for login, created with React, using React Router. With Hom
 
 ---
 
-![screenshot](./basic_authentication/Basic Authentication -_login.png)
+![screenshot](./Basic Authentication -_login.png)
 
 
 ## Installation
