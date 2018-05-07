@@ -6,7 +6,7 @@ Basic authentication for login, created with React, using React Router. With Hom
 
 ---
 
-![screenshot](./basic_authentication/Basic Authentication -_login.png)
+![screenshot](./Basic Authentication -_login.png)
 
 
 ## Installation
@@ -123,7 +123,7 @@ so that our package-json, will looks like this:
 
 # Instructions
 
-1. The `index.html` is the actual webpage which loads our React Components on the browser.
+1. The `index.html` is the actual webpage which loads our React Components on the browser, we will need an entry point, with an empty div with id `root`
 2. We need a file called `App.jsx`, our main Component. We initialize like this:
 ```
 import React from 'react';
